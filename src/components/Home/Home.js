@@ -32,9 +32,9 @@ class Home extends React.Component{
                 <div className="col-lg-6 col-md-12 col-sm-12">
                     <div  id="Social_Home" >
                         Follow Us 
-                        <img id="fb" src={fbIcon} alt="facebook"/>
-                        <img id="insta" src={instaIcon} alt="instagram"/>
-                        <img id="twitter" src={twitterIcon} alt="twitter"/>
+                        <a target="_blank" href="https://www.facebook.com/kreiva.iiitv/"><img id="fb" src={fbIcon} alt="facebook"/></a>
+                        <a target="_blank" href="https://www.instagram.com/kreiva.iiitv/?hl=en"><img id="insta" src={instaIcon} alt="instagram"/></a>
+                        <a target="_blank" href="https://twitter.com/kreiva_iiitv"><img id="twitter" src={twitterIcon} alt="twitter"/></a>
                     </div>
                 </div>
                 <div className="col-lg-6 col-md-12 col-sm-12">
