@@ -1,0 +1,25 @@
+.EventTitlePage{
+    width: 100%;
+    background: url('../../assets/images/kreiva-ui_background.png');
+    background-size: 50%;
+    padding: 2vmin 4vmin;
+}
+
+#EventIcon{
+    margin-top: 5vmin;
+    width: 25vmin;
+    height: 25vmin;
+}
+
+#ClubEventTitle{
+    margin: none;
+    color: white;
+    font-size: 6vmin;
+}
+
+#EventType{
+    margin: none;
+    color: white;
+    font-size: 3vmin;
+    color: goldenrod;
+}
