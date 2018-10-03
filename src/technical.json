@@ -1,0 +1,21 @@
+var  tech= { "members" : [
+{ "id":"1","name":"Shashi bhushan" ,"fb":"#","gh":"#", "linkedin":"#","deg":"UI-UX" }, 
+
+{ "id":"2","name":"Rohit Shamdasani" ,"fb":"#","gh":"#", "linkedin":"#","deg":"Lead Developer" },
+
+{ "id":"3","name":"Shweta Kumari","fb":"https://www.facebook.com/shweta.jacker","gh":"https://github.com/Shweta4321", "linkedin":"https://www.linkedin.com/in/shweta-kumari-92186012b/","deg":"Backend Team" }, 
+
+
+{ "id":"4","name":"Anusha Gupta" ,"fb":"https://m.facebook.com/gupta.anusha15","gh":"https://github.com/ihavesuperpowers2", "linkedin":"#","deg":"Backend Team" },
+
+
+{ "id":"5","name":"Prachi Agarwal" ,"fb":"https://www.facebook.com/prachi.agarwal.33886","gh":"https://www.facebook.com/prachi.agarwal.33886", "linkedin":"https://www.linkedin.com/in/prachi-agarwal-1a2078161","deg":"Backend Team" },
+
+{ "id":"6","name":"Harsha Surisetty" ,"fb":"https://www.facebook.com/harsha.surisetty.5","gh":"https://github.com/harsha-iiiv", "linkedin":"https://www.linkedin.com/in/surisetty-harshavardhan-495344159/","deg":"Frontend Team" },
+
+{ "id":"7","name":"Joshua Poddoku" ,"fb":"https://www.facebook.com/joshuajosh1999","gh":"https://github.com/JoshuaPoddoku", "linkedin":"https://www.linkedin.com/in/joshua-poddoku/","deg":"Frontend Team" },
+
+{ "id":"8","name":"Kartikey Lakotia" ,"fb":"https://m.facebook.com/kartikey.lakhotia.7","gh":"https://github.com/Kartikeylakhotia14", "linkedin":"https://www.linkedin.com/in/kartikey-lakhotia-12aab4164","deg":"Frontend Team" } 
+
+]}
+

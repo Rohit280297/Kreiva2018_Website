@@ -1,0 +1,12 @@
+var  clrl = '{ "members" : [
+{ "id":"1","name":"Shashi bhushan" ,"fb":"#","insta":"#", "twitter":"#","deg":"Mentor" }, 
+{ "id":"2","name":"Raja bharghav","fb":"#","insta":"#", "twitter":"#","deg":"President" }, 
+{ "id":"3","name":"Mayank waiker","fb":"#","insta":"#", "twitter":"#","deg":"Vice President"}, 
+{ "id":"4","name":"Pritha upadhya","fb":"#","insta":"#", "twitter":"#","deg":"Vice President"}, 
+{ "id":"5","name":"Ishita das","fb":"#","insta":"#", "twitter":"#","deg":"Event head"},'+
+{ "id":"6","name":"Akshitha agarwal","fb":"#","insta":"#", "twitter":"#","deg":"Core team"}, 
+{ "id":"7","name":"Chanchal saini","fb":"#","insta":"#", "twitter":"#","deg":"Core team"}, 
+{ "id":"8","name":"Preeti yadav","fb":"#","insta":"#", "twitter":"#","deg":"Core team"} ]}
+
+
+ 
