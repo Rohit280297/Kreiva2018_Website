@@ -1,0 +1,15 @@
+var  clrl = { "members" : [
+{ "id":"1","name":"Mohak Khare" ,"fb":"https://www.f acebook.co m/mohak.kh are.79","insta":"#", "link":"https://www.l inkedin.com/ in/mohak-kh are-4b8b411 45/","deg":"Mentor" }, 
+{ "id":"2","name":"Raja Bharghav","fb":"https://m.fac ebook.com/r aja.bhargava 1","insta":"#", "link":"#","deg":"President" }, 
+{ "id":"3","name":"Mayank Waiker","fb":"https://www.f acebook.co m/mayank.w aiker.9","insta":"#", "link":"#","deg":"Vice President"}, 
+{ "id":"4","name":"Pritha Upadhya","fb":"https://www.f acebook.co m/pritha.upa dhyay","insta":"#", "link":"#","deg":"Vice President"}, 
+{ "id":"5","name":"Ishita Das","fb":"https://www.facebook.co m/ishita.das. 792","insta":"https://www.instagram.com/ishitadas27/", "link":"#","deg":"Event head"},
+{ "id":"6","name":"Akshitha Agarwal","fb":"https://www.f acebook.co m/profile.php ?id=100004 415176677","insta":"#", "link":"#","deg":"Core team"}, 
+{ "id":"7","name":"Keshav Purohit","fb":"https://www.f acebook.co m/keshav.pu rohit.948","insta":"#", "link":"#","deg":"Core team"}, 
+{ "id":"8","name":"Vashist Hegde","fb":"https://www.f acebook.co m/vashist.he gde.35","insta":"#", "link":"#","deg":"Core team"}, 
+{ "id":"9","name":"Chanchal saini","fb":"https://www.f acebook.co m/mohak.kh are.79","insta":"#", "link":"www.linkedi n.com/in/chanchal-saini-1 6a64914b","deg":"Core team"}, 
+
+{ "id":"10","name":"Preeti yadav","fb":"https://www.facebook.com/prreti","insta":"https://www.instagram.com/preetiyadav30/?hl=en", "link":"#","deg":"Core team"} ]}
+
+
+ 
